@@ -95,39 +95,12 @@ Documentation website:
 
 ## Demo & Documentation
 
-🌐 [Visit Gliph-ui](https://gliph-ui.vercel.app)
+ [Visit Gliph-ui](https://gliph-ui.vercel.app)
 
-Coming soon.
 
----
-
-## Contributing
-
-Contributions are welcome.
-
-If you'd like to contribute:
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Open a pull request
 
 ---
 
-## Vision
-
-Our goal is to build a modern mobile UI ecosystem for developers that simplifies building high-quality applications across React Native and Flutter.
-
----
-
-## Connect
-
-- LinkedIn
-- GitHub
-- X (Twitter)
-- YouTube
-
----
 
 ## Support
 
